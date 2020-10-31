@@ -1,5 +1,5 @@
-[bg storage="A/jinja.png" time="100"]
-[playbgm  storage=A/Springwalk.ogg]
+[bg storage="01_ThreeChoiceThreeLie/jinja.png" time="100"]
+[playbgm  storage=01_ThreeChoiceThreeLie/Springwalk.ogg]
 
 ;本文
 #霧雨魔理沙
@@ -80,7 +80,7 @@
 しかし、そんな彼女を置いて、早苗は言葉を続けた。[p]
 
 
-[playbgm storage="A/ohuzake.ogg"]
+[playbgm storage="01_ThreeChoiceThreeLie/ohuzake.ogg"]
 
 [chara_mod name="Sanae" face="Smile2_Red"]
 #東風谷早苗
@@ -122,4 +122,4 @@
 #
 [mask time="3000"]
   [fadeoutbgm time=3000]
-  [jump storage=A/A01.ks]
+  [jump storage=02_ThreeChoiceThreeLie1.ks]

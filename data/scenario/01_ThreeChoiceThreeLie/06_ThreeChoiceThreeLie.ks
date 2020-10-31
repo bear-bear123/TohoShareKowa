@@ -1,4 +1,4 @@
-  [bg storage="A/kouma_room.png"]
+  [bg storage="01_ThreeChoiceThreeLie/kouma_room.png"]
   [chara_show name="Marisa" face="Hurry" left=-50  top=10 time=500]
   [chara_show name="Sakuya" face="Easy" left=400  top=10 time=500]
 [mask_off time="3000"]
@@ -23,7 +23,7 @@
 ;[chara_hide_all]
 ;[mask_off time="1500"]
 
-[ScerneChange bgimage="A/kouma_room.png"]
+[ScerneChange bgimage="01_ThreeChoiceThreeLie/kouma_room.png"]
 
 #
 しばらくすると、廊下の方からドタドタと足音が聞こえてきた。[p]
@@ -34,7 +34,7 @@
 #紅美鈴
 ああ、いたいた。咲夜さーん。倉庫の整理は大体終わりましたよ～。それに、いい物を見つけちゃいました～[p]
 
-[playbgm storage="A/last.ogg"]
+[playbgm storage="01_ThreeChoiceThreeLie/last.ogg"]
 
 #
 足音の主は紅魔館の門番である紅美鈴であった。[p]
@@ -124,7 +124,7 @@
   [layopt layer="message" visible="false"]
 [mask_off time="3000"]
 
-[bg storage="A/edA4.png"]
+[bg storage="ed.png"]
 [fadeoutbgm time=3000]
 [bg storage="black.png"]
 [wait time="5000"]

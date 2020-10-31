@@ -1,5 +1,3 @@
-;自作マクロ
-
 ;シナリオ選択後の遷移
 [macro name=SenarioStart]
   [playse storage=%sound buf=0]

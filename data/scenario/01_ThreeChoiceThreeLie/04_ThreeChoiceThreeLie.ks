@@ -1,4 +1,4 @@
-  [bg storage="A/white_room.png" time="0"]
+  [bg storage="01_ThreeChoiceThreeLie/white_room.png" time="0"]
 [mask_off time="3000"]
 
 #十六夜咲夜
@@ -206,4 +206,4 @@
 
 #
 [mask time="3000"]
-  [jump storage=A/A04.ks]
+  [jump storage=05_ThreeChoiceThreeLie.ks]

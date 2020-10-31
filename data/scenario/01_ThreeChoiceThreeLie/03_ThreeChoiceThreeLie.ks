@@ -1,6 +1,6 @@
-  [bg storage="A/kouma_roka.png" time="100"]
+  [bg storage="01_ThreeChoiceThreeLie/kouma_roka.png" time="100"]
   [chara_mod name="Marisa" face="Smile"]
-  [playbgm storage="A/koumakan.ogg"]
+  [playbgm storage="01_ThreeChoiceThreeLie/koumakan.ogg"]
 [mask_off time="3000"]
 
 #霧雨魔理沙
@@ -15,7 +15,7 @@
 魔理沙は紅魔館のテラスから侵入し、館内をしばらく歩いていると、咲夜が音もなく、いきなり目の前に現れた。[p]
 
 ;暗転からの登場
-[VanishingEverything charaName="Sakuya" bgimage="A/kouma_roka.png" sound="vani.wav"]
+[VanishingEverything charaName="Sakuya" bgimage="01_ThreeChoiceThreeLie/kouma_roka.png" sound="vani.wav"]
 
 #十六夜咲夜
 あら、魔理沙。不法侵入とは相変わらずね。盗人猛々しいとはこのことかしら？[p]
@@ -112,7 +112,7 @@
 #
 そう言って咲夜は魔理沙を近くの部屋に案内した。[p]
 
-[ScerneChange bgimage="A/kouma_room.png"]
+[ScerneChange bgimage="01_ThreeChoiceThreeLie/kouma_room.png"]
 
 #
 その部屋は客室の一つであるようで、家具はベッドや椅子、小さな丸机など必要最小限の物しかなかった。[p]
@@ -125,4 +125,4 @@
 #
 [mask time="3000"]
   [chara_hide name="Sakuya2"]
-  [jump storage=A/A03.ks]
+  [jump storage=04_ThreeChoiceThreeLie.ks]

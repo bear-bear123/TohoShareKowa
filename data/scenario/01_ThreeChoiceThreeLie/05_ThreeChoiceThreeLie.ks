@@ -1,4 +1,4 @@
-  [bg storage="A/kouma_room.png"]
+  [bg storage="01_ThreeChoiceThreeLie/kouma_room.png"]
   [chara_show name="Sakuya2" left=150 top=10 face="Easy2"]
 [mask_off time="3000"]
 
@@ -17,7 +17,7 @@
 
 #
 気丈にふるまうことで、纏わりつくような重い空気を払おうとした。[p]
-しかし、そんな魔理沙に対して、咲夜/咲夜は口角を釣り上げただけの不気味な笑みを見せた。[p]
+しかし、そんな魔理沙に対して、咲夜01_ThreeChoiceThreeLie咲夜は口角を釣り上げただけの不気味な笑みを見せた。[p]
 その表情に、体の底から身震いするような恐怖を覚えた。[p]
 そして、咲夜は口を開いた。[p]
 
@@ -36,4 +36,4 @@
 
 #
 [mask time="3000"]
-  [jump storage=A/A05.ks]
+  [jump storage=06_ThreeChoiceThreeLie.ks]

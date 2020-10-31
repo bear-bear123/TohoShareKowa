@@ -1,7 +1,7 @@
-  [bg storage="A/jinja.png" time="100"]
+  [bg storage="01_ThreeChoiceThreeLie/jinja.png" time="100"]
   [chara_mod name="Marisa" face="Normal2"]
   [chara_mod name="Sanae" face="Normal"]
-  [playbgm storage="A/Spring walk.ogg"]
+  [playbgm storage="01_ThreeChoiceThreeLie/Spring walk.ogg"]
 [mask_off time="3000"]
 
 #霧雨魔理沙
@@ -42,4 +42,4 @@
 [mask time="3000"]
   [chara_hide name="Sanae" time="0" pos_mode=false]
   [fadeoutbgm time=3000]
-  [jump storage=A/A02.ks]
+  [jump storage=03_ThreeChoiceThreeLie.ks]

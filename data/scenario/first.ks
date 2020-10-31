@@ -65,7 +65,7 @@
 
 ;シナリオ各先リンク
 *story1
-[SenarioStart sound = "tejo.wav" senario = A/ScenariInit_A.ks ]
+[SenarioStart sound = "tejo.wav" senario = 01_ThreeChoiceThreeLie/Init_ThreeChoiceThreeLie.ks ]
 *story2
 [SenarioStart sound = "解錠音" senario = B/B00.ks ]
 *story3
