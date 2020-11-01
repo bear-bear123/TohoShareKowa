@@ -42,4 +42,4 @@
 [mask time="3000"]
   [chara_hide name="Sanae" time="0" pos_mode=false]
   [fadeoutbgm time=3000]
-  [jump storage=03_ThreeChoiceThreeLie.ks]
+  [jump storage=01_ThreeChoiceThreeLie/03_ThreeChoiceThreeLie.ks]

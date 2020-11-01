@@ -36,4 +36,4 @@
 
 #
 [mask time="3000"]
-  [jump storage=06_ThreeChoiceThreeLie.ks]
+  [jump storage=01_ThreeChoiceThreeLie/06_ThreeChoiceThreeLie.ks]

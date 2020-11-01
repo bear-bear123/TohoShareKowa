@@ -125,4 +125,4 @@
 #
 [mask time="3000"]
   [chara_hide name="Sakuya2"]
-  [jump storage=04_ThreeChoiceThreeLie.ks]
+  [jump storage=01_ThreeChoiceThreeLie/04_ThreeChoiceThreeLie.ks]

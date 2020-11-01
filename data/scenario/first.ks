@@ -1,5 +1,8 @@
 *start
 *title
+;デバッグ用プラグイン読み込み
+;[plugin name=tsex]
+
 ;自作マクロ呼出し
 [call storage="macro.ks"]
 

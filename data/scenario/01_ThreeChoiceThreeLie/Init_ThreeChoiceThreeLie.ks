@@ -20,4 +20,4 @@
 [layopt layer=message0 visible=true]
 
 ;シナリオジャンプ
-[jump storage=01_ThreeChoiceThreeLie.ks]
+[jump storage=01_ThreeChoiceThreeLie/01_ThreeChoiceThreeLie.ks]

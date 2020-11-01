@@ -122,4 +122,4 @@
 #
 [mask time="3000"]
   [fadeoutbgm time=3000]
-  [jump storage=02_ThreeChoiceThreeLie1.ks]
+  [jump storage=01_ThreeChoiceThreeLie/02_ThreeChoiceThreeLie.ks]
