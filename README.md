@@ -20,6 +20,5 @@
 
 # Note
 * 元々は吉里吉里で作成したゲームをティラノスクリプトに移行したもの
-* ニコニコ動画のUPリスト
-** https://www.upload.nicovideo.jp/garage/series/43463
+* ニコニコ動画のUPリスト https://www.upload.nicovideo.jp/garage/series/43463
 * 14話中1話移行済み(2020/10/27現在)\
